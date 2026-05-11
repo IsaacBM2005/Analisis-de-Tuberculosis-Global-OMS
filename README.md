@@ -102,3 +102,10 @@ plotly
 
 Datos originales: [Organización Mundial de la Salud (OMS)](https://www.who.int/data/gho)
 
+## 🔗 Ver notebook
+
+[![Abrir en Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1Bg8tH-tYtin7JTc8LaIEeCZldxKVx82E?usp=sharing))]
+
+---
+
+
